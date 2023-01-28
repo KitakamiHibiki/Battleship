@@ -1,0 +1,25 @@
+{
+    "java.project.outputPath": "./bin",
+    "java.project.sourcePaths": ["./src"],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+
+    "background.enabled": true,
+    "background.useDefault": false,
+    "background.useFront": false,
+    "background.loop": true,
+    "background.customImages": ["file:///E:\\My%20Picture\\背景\\93844083_p0.jpg"],
+    "background.style": {
+        "pointer-events": "none",
+        "background-size":"100% 100%",
+        "background-position":"fixed",
+        "background-repeat": "no-repeat",
+        "opacity": 1,
+    },
+    "workbench.colorTheme": "Abyss",
+    "editor.tokenColorCustomizations": {
+        "[Abyss]": {"comments": "#00FF00"}
+        },
+        "EnglishChineseDictionary.enableHover": true,
+}

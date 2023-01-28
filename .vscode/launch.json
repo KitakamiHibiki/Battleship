@@ -1,0 +1,13 @@
+{
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "battleship.BattleshipGame",
+            // "console": "externalTerminal"
+            "console": "integratedTerminal"
+        }
+    ]
+}
